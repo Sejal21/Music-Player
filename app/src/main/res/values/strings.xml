@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="musicList">Music List</string>
+    <string name="oneDirection">One Direction</string>
+    <string name="favourite">Favourite</string>
+    <string name="addFavourites">Add to Favourites</string>
+</resources>
